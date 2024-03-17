@@ -1,0 +1,9 @@
+-correct details test-
+signup button has successful
+Firsr name field has successful
+last name has successful
+ Register email has successful
+ Register email has successful
+password has successful
+donedondone
+gender choose succ
